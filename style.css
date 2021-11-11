@@ -1,0 +1,40 @@
+body {
+    background-size: cover;
+}
+
+.heading {
+    font-size: 23px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 100%;
+    background: linear-gradient(lightcoral 0%, aqua 100%);
+    margin: 0px;
+    border-radius: 15px;
+    font-style: oblique;
+    font-weight: bold;
+    padding:10px;
+}
+
+.note {
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 5px;
+    color: black;
+    letter-spacing: 1px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+body {
+    background-size: cover;
+}
+
+#song {
+    font-size: 20px;
+    margin: 15px;
+    background: linear-gradient(lightcoral 0%, aqua 100%);
+}
+
+canvas {
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 18px gray;
+}
